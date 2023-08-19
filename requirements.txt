@@ -1,0 +1,7 @@
+fastapi[all]
+lightgbm==3.2.1
+pandas==1.4.4
+pytest
+scikit-learn
+seaborn
+gradio
