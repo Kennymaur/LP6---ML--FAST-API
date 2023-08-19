@@ -3,25 +3,25 @@
 In this project, Machine Learning algorithm is used on the Titanic dataset for predicting the survival of the passenger.
 
 ## Objectives
-Predict which passenger survived the Titanic using FastAPI
+Building an app that Predicts which passenger survived the Titanic using FastAPI
 
 ## Dependencies
 
-python3
-numpy
-pandas
-matplotlib
-supervised learning
-Machine learning Algorithm
-FastAPI
+- python3
+- numpy
+- pandas
+- matplotlib
+- Supervised learning
+- Machine learning Algorithm
+- FastAPI
 
 
 This notebook will show basic examples of;
 
-Data handling
-Importing data with pandas
-Data cleaning
-Exploration Data through visualization
+- Data handling
+- Importing data with pandas
+- Data cleaning
+- Exploration Data through visualization
 
 
 ## Author
